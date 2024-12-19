@@ -2,7 +2,7 @@
 
 Dstack is an highly experimental and evolving-fast SDK to deploy Docker-based TEE applications.
 
-It was inspired by [Andrew's](https://github.com/amiller) (Flashbots team) design of [Dstack](https://collective.flashbots.net/t/dstack-speedrunning-a-p2p-confidential-vm). It was originally built as Phala's opinionated implementation. We aim to merge it into a production ready project eventually.
+It was inspired by [Andrew's](https://github.com/amiller) (Flashbots team) design of [Dstack](https://collective.flashbots.net/t/dstack-speedrunning-a-p2p-confidential-vm). It was originally built as [Phala](https://phala.network/)'s opinionated implementation. We aim to merge it into a production ready project eventually.
 
 # Overview
 
@@ -386,7 +386,9 @@ You may encounter this problem when upgrading from an older version of dstack, b
 
 # Contributors
 
-The inspiration for this work stems from [Andrew Miller](https://github.com/amiller)’s pioneering concept of a [Docker-based P2P TEE SDK](https://collective.flashbots.net/t/dstack-speedrunning-a-p2p-confidential-vm/3876).
+- Phala Network TEE engineer team: [Hang Yin](https://github.com/h4x3rotab), [Kevin Wang](https://github.com/kvinwang), [Shelven Zhou](https://github.com/shelvenzhou), [Leechael](https://github.com/Leechael), [Jianwei Zhu](https://github.com/nanometerzhu)
+- Nethermind : [Franco Barpp Gomes](https://github.com/Hyodar)
+- The inspiration for this work stems from [Andrew Miller](https://github.com/amiller)’s pioneering concept of a [Docker-based P2P TEE SDK](https://collective.flashbots.net/t/dstack-speedrunning-a-p2p-confidential-vm/3876).
 
 Special acknowledgment to [Flashbots](https://github.com/flashbots) for building a community around TEE. The TEE Hacker House initiative, organized by [Flashbots](https://github.com/flashbots) and led by [Tina](https://github.com/CarboClanC), has brought together TEE builders to develop tools for TEE-Web3 integration. This collaborative journey has generated invaluable insights for advancing secure, confidential environments within Web3.
 
